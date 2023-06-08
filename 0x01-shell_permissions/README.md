@@ -17,3 +17,8 @@
 
 ## Script 4
 - changes the owner of the file hello to the user betty.
+
+## Script 5
+-  creates an empty file called hello.
+
+
