@@ -21,4 +21,7 @@
 ## Script 5
 -  creates an empty file called hello.
 
+## Script 6
+- adds execute permission to the owner of the file hello.
+
 
