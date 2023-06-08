@@ -49,3 +49,6 @@
 
 ## Script 12
 - creates a directory called my_dir with permissions 751 in the working directory.
+
+## Script 13
+- changes the group owner to school for the file hello
