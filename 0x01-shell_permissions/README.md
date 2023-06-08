@@ -34,4 +34,6 @@
     Group: no permission at all
     Other users: all the permissions
 
-## 
+## Script 9
+- sets the mode of the file hello to this:
+	rwxr-x-wx 
