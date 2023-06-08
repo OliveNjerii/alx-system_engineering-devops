@@ -37,3 +37,10 @@
 ## Script 9
 - sets the mode of the file hello to this:
 	rwxr-x-wx 
+
+## Script 10
+- sets the mode of the file hello the same as olleh’s mode.
+
+    The file hello will be in the working directory
+    The file olleh will be in the working directory
+
