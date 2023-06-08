@@ -11,3 +11,8 @@
 
 ## Script 2
 - prints the effective username of the current user.
+
+## Script 3
+- prints all the groups the current user is part of.
+
+
