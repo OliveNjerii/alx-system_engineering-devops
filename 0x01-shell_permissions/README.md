@@ -24,4 +24,5 @@
 ## Script 6
 - adds execute permission to the owner of the file hello.
 
-
+## Script 7
+- adds execution permission to the owner, the group owner and the other users, to the file hello
