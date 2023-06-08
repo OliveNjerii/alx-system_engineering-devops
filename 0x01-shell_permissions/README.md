@@ -44,3 +44,5 @@
     The file hello will be in the working directory
     The file olleh will be in the working directory
 
+## Script 11
+- adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
