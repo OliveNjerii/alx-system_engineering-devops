@@ -63,3 +63,6 @@ You can consider that all HTML files have the extension .html
 
 ## Script 17
 - creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+
+## Script 18
+-  lists all the files and directories of the current directory, separated by commas (,).
