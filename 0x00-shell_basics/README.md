@@ -66,3 +66,8 @@ You can consider that all HTML files have the extension .html
 
 ## Script 18
 -  lists all the files and directories of the current directory, separated by commas (,).
+
+## Script 19
+- Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
+
+
