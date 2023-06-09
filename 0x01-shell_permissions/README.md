@@ -57,13 +57,15 @@
 - changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 
 ## Script 15
-changes the owner and the group owner of _hello to vincent and staff respectively.
+- changes the owner and the group owner of _hello to vincent and staff respectively.
 
     The file _hello is in the working directory
     The file _hello is a symbolic link
 
 ## Script 16
-changes the owner of the file hello to betty only if it is owned by the user guillaume.
+- changes the owner of the file hello to betty only if it is owned by the user guillaume.
 
     The file hello will be in the working directory
 
+## Script 17
+- will play the StarWars IV episode in the terminal.
