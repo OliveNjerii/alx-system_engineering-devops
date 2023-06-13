@@ -20,3 +20,6 @@
 
 ## Script 7
 - displays the third line of the file iacta.
+
+## Script 8
+- creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
