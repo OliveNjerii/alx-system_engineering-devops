@@ -8,3 +8,6 @@
 
 ## Script 3
 - Display the content of the /etc/passwd file.
+
+## Script 4
+- Display the content of /etc/passwd and /etc/hosts
