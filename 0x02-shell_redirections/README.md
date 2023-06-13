@@ -15,4 +15,7 @@
 ## Script 5
 - Display the last 10 lines of /etc/passwd
 
+## Script 6
+- Display the first 10 lines of /etc/passwd
+
 
