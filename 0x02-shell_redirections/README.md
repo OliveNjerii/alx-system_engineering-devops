@@ -57,4 +57,7 @@
 ## Script 19
 - Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 
+## Script 20
+- Replace all characters A and c from input to Z and e respectively.
+
 
