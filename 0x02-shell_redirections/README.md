@@ -62,3 +62,6 @@
 
 ## Script 21
 - removes all letters c and C from input.
+
+## Script 22
+- reverse its input
