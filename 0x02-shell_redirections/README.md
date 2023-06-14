@@ -38,3 +38,6 @@
 
 ## Script 13
 - displays the 10 newest files in the current directory.
+
+## Script 14
+-  takes a list of words as input and prints only words that appear exactly once.
