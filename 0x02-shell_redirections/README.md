@@ -65,3 +65,6 @@
 
 ## Script 22
 - reverse its input
+
+## Script 23
+-  displays all users and their home directories, sorted by users.
