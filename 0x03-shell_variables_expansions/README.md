@@ -11,3 +11,6 @@
 
 ## Script 4 
 - counts the number of directories in the PATH
+
+## Script 5
+- script that lists environment variables.
