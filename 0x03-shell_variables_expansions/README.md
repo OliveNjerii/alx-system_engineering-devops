@@ -17,3 +17,6 @@
 
 ## Script 6
 - script that lists all local variables and environment variables, and functions.
+
+## Script 7
+- script that creates a new local variable
