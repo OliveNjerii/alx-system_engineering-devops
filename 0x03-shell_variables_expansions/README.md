@@ -20,3 +20,6 @@
 
 ## Script 7
 - script that creates a new local variable
+
+## Script 8
+- script that creates a new global variable.
