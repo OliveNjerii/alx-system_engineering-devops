@@ -27,3 +27,5 @@
 ## Script 9
 - script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 
+## Script 10
+- script that prints the result of POWER divided by DIVIDE, followed by a new line.
