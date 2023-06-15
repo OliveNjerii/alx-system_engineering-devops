@@ -14,3 +14,6 @@
 
 ## Script 5
 - script that lists environment variables.
+
+## Script 6
+- script that lists all local variables and environment variables, and functions.
